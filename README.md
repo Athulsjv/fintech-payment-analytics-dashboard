@@ -6,7 +6,7 @@
 ## The Business Problem
 
 Digital payment platforms process millions of transactions daily.
-The critical challenge is not just detecting fraud — it is
+The critical challenge is not just detecting fraud - it is
 understanding *where* fraud hides, *when* it strikes, and
 *why* existing detection systems fail to catch it.
 
